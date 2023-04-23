@@ -1,0 +1,9 @@
+cd ~/environment
+git clone <your repository URL>
+curl -s https://static.us-east-1.prod.workshops.aws/public/8c4076ba-a416-424d-acc7-06e5cc2de102//static/30-source/DemoApp.tgz | tar -xzv
+cd DemoApp
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+git add .
+git commit -m "Initial commit"
+git push
