@@ -1,1 +1,0 @@
-# AWS-CI-CD-workshop-with-Java-Application
